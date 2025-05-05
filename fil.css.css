@@ -1,0 +1,19 @@
+body{
+	background: #B2B2B2
+}
+h1, h2{
+	text-align: center;
+	font-size: 32px; 
+}
+  .color{
+	  color: white
+	  text-align: center;
+	  font-size: 50px;
+}
+ .logo{
+	 display: block;
+     margin-left: 0; 
+     margin-right: auto;
+	 width: 150px;
+	 height: 150px;
+}
